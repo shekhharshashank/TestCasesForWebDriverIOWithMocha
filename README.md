@@ -11,8 +11,8 @@ npm -v will give node version
 cd  to dir where one wants to install webdriver IO
 -->   npm init -y
 
-npm install @wdio/cli
-npx wdio config - will get you helper for configurations.
+npm install @wdio/cli    -to get cli
+npx wdio config    - will get you helper for configurations.
 
 To run The test use:-
 npx wdio run wdio.conf.js
